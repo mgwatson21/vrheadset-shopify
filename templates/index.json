@@ -1,0 +1,223 @@
+{
+  "sections": {
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "6afd9035-d300-4754-84b4-12155fd93963": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/vrheadset_fillerimg2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "26eea589-3b99-46ee-9489-b8decc4cb17a": {
+      "type": "collage",
+      "blocks": {
+        "template--19917481279780__26eea589-3b99-46ee-9489-b8decc4cb17a-168969208629cda3ea-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vrheadset_fillerimg1.jpg"
+          }
+        },
+        "f9016735-3aa2-4a96-886d-25699c53b206": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vrheadset_fillerimg3.jpg"
+          }
+        },
+        "8a65c160-4a4f-4ac8-9f8b-03db1f276466": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vrheadset_fillerimg4.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917481279780__26eea589-3b99-46ee-9489-b8decc4cb17a-168969208629cda3ea-0",
+        "f9016735-3aa2-4a96-886d-25699c53b206",
+        "8a65c160-4a4f-4ac8-9f8b-03db1f276466"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f69dfb37-c509-4c6a-b924-d2d1e38b8234": {
+      "type": "featured-product",
+      "blocks": {
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-2": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-4": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-0",
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-1",
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-2",
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-3",
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-4",
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-5",
+        "template--19917481279780__f69dfb37-c509-4c6a-b924-d2d1e38b8234-16896923414218d340-6"
+      ],
+      "settings": {
+        "product": "vr-headset",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0b9e5f2f-c9c1-42c7-b9ae-0b60ade36600": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19917481279780__0b9e5f2f-c9c1-42c7-b9ae-0b60ade36600-1689692982007ff230-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Instagram",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917481279780__0b9e5f2f-c9c1-42c7-b9ae-0b60ade36600-1689692982007ff230-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "58b43875-7dee-4b3b-abaa-23e43d674322": {
+      "type": "collage",
+      "blocks": {
+        "template--19917481279780__58b43875-7dee-4b3b-abaa-23e43d674322-168969208629cda3ea-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Instagram_pic1.webp"
+          }
+        },
+        "abf22b39-e2c1-410c-9b96-2ac0469a9cfa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Instagram_pic2.jpg"
+          }
+        },
+        "241f0002-7280-4d2c-bb61-c7c573e95733": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Instagram_pic3.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--19917481279780__58b43875-7dee-4b3b-abaa-23e43d674322-168969208629cda3ea-0",
+        "abf22b39-e2c1-410c-9b96-2ac0469a9cfa",
+        "241f0002-7280-4d2c-bb61-c7c573e95733"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "featured_collection",
+    "6afd9035-d300-4754-84b4-12155fd93963",
+    "26eea589-3b99-46ee-9489-b8decc4cb17a",
+    "f69dfb37-c509-4c6a-b924-d2d1e38b8234",
+    "0b9e5f2f-c9c1-42c7-b9ae-0b60ade36600",
+    "58b43875-7dee-4b3b-abaa-23e43d674322"
+  ]
+}
